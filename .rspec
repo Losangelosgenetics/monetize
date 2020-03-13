@@ -1,1 +1,5 @@
 --warnings
+--format documentation
+--color
+--color
+--format progress
