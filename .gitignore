@@ -69,3 +69,15 @@ tmtags
 .rbx
 
 /tmp
+## PROJECT::GENERAL
+coverage
+rdoc
+pkg
+Gemfile.lock
+
+## PROJECT::SPECIFIC
+.rvmrc
+.ruby-gemset
+
+## Rubymine
+.idea
